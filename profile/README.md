@@ -9,13 +9,13 @@ Payshia Software Solutions is a community of passionate developers and innovator
 ## 📚 Featured Projects
 
 ### Tea Jar
-[![GitHub stars](https://img.shields.io/github/stars/payshia/tea-jar?style=social)](https://github.com/payshia/tea-jar)
+[![GitHub stars](https://img.shields.io/github/stars/payshia/tea-jar?style=social)](https://github.com/payshia/TeaJarWebsite)
 * A smart tea brewing system for tea lovers, designed for both casual and professional brewing.
 * Key features: Recipe customization, temperature control, integration with mobile devices.
 * [Learn more](https://github.com/payshia/tea-jar)
 
 ### Ceylon Pharma College Management System
-[![GitHub stars](https://img.shields.io/github/stars/payshia/ceylon-pharma-college?style=social)](https://github.com/payshia/ceylon-pharma-college)
+[![GitHub stars](https://img.shields.io/github/stars/payshia/ceylon-pharma-college?style=social)](https://github.com/payshia/pharma-college-project)
 * A complete system for managing student records, courses, and faculty for Ceylon Pharma College.
 * Key features: Student enrollment, course management, faculty scheduling, and reporting tools.
 * [Learn more](https://github.com/payshia/ceylon-pharma-college)
