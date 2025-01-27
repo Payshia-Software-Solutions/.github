@@ -9,7 +9,7 @@ Payshia Software Solutions is a community of passionate developers and innovator
 ## 📚 Featured Projects
 
 ### Tea Jar
-[![GitHub stars](https://img.shields.io/github/stars/payshia/tea-jar?style=social)](https://github.com/payshia/tea-jar)
+[![GitHub stars](https://img.shields.io/github/stars/Payshia-Software-Solutions/TeaJarWebsite?style=social)](https://github.com/Payshia-Software-Solutions/TeaJarWebsite)
 * A smart tea brewing system for tea lovers, designed for both casual and professional brewing.
 * Key features: Recipe customization, temperature control, integration with mobile devices.
 * [Learn more](https://github.com/payshia/tea-jar)
