@@ -8,17 +8,17 @@ Payshia Software Solutions is a community of passionate developers and innovator
 
 ## 📚 Featured Projects
 
-### City Management System
-[![GitHub stars](https://img.shields.io/github/stars/payshia/city-management-system?style=social)](https://github.com/payshia/city-management-system)
-* A web-based system for managing city records, including CRUD operations.
-* Key features: User-friendly interface, efficient database interaction, API support.
-* [Learn more](https://github.com/payshia/city-management-system)
+### Tea Jar
+[![GitHub stars](https://img.shields.io/github/stars/payshia/tea-jar?style=social)](https://github.com/payshia/tea-jar)
+* A smart tea brewing system for tea lovers, designed for both casual and professional brewing.
+* Key features: Recipe customization, temperature control, integration with mobile devices.
+* [Learn more](https://github.com/payshia/tea-jar)
 
-### Smart Automation Toolkit
-[![GitHub stars](https://img.shields.io/github/stars/payshia/smart-automation-toolkit?style=social)](https://github.com/payshia/smart-automation-toolkit)
-* A toolkit designed to automate common software processes.
-* What makes it special: Seamless integration with existing workflows, easy to use, scalable.
-* [Learn more](https://github.com/payshia/smart-automation-toolkit)
+### Ceylon Pharma College Management System
+[![GitHub stars](https://img.shields.io/github/stars/payshia/ceylon-pharma-college?style=social)](https://github.com/payshia/ceylon-pharma-college)
+* A complete system for managing student records, courses, and faculty for Ceylon Pharma College.
+* Key features: Student enrollment, course management, faculty scheduling, and reporting tools.
+* [Learn more](https://github.com/payshia/ceylon-pharma-college)
 
 ## 💡 Contributing
 
